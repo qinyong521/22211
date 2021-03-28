@@ -320,6 +320,7 @@ async function all() {
             'ini': `21`,
             'store': `0`,
             'Content-Type': `application/x-www-form-urlencoded`,
+            'User-Agent': `'User-Agent' : "Mozilla/5.0 (Linux; U; Android 5.1.1; zh-CN; SM-J3109 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/11.8.0.960 UWS/2.12.1.18 Mobile Safari/537.36 AliApp(TB/7.5.4) UCBS/2.11.1.1 WindVane/8.3.0 720X1280"`,
             'platform': `1`,
             'version': `18`,
             'imei': ``,
